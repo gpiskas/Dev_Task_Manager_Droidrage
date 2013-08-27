@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Droidrage Manager</string> 
+    <string name="systeminfo">System Information</string> 
+    <string name="services">Running Services</string> 
+    <string name="processes">Running Processes</string> 
+    <string name="log">Activity Log</string>
+    <string name="about">About</string>
+    
+    <string name="aboutAuthor">Author: George Piskas</string>
+    <string name="aboutVersion">v1.0.2</string>
+    <string name="aboutEmail">geopiskas@gmail.com</string>
+    <string name="aboutPlease">Please report any bugs or suggestions to the above address. Don\'t forget to rate!</string>
+    <string name="aboutText">Review system information, running services and processes and kill them to free ram! Unleash your rage on them!</string>
+    
+    
+</resources>
