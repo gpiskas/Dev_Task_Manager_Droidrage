@@ -7,4 +7,4 @@ Review system information, running services and processes and kill them to free 
 
 The repository structure is based on the Eclipse IDE android project layout. You can import the code there and start coding!
 
-Dev Task Manager (Droidrage) <br> Copyright (C) 2013  George Piskas
+Dev Task Manager (Droidrage) <br> Copyright (C) 2013  George Piskas 
